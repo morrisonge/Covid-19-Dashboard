@@ -1,4 +1,3 @@
-library(tmap)
 library(sf)
 library(leaflet)
 library(shiny)
